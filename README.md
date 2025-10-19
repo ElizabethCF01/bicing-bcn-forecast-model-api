@@ -44,7 +44,7 @@ This project provides:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ElizabethCF01/bicing-bcn-forecast-model-api.git
    cd updated
    ```
 
